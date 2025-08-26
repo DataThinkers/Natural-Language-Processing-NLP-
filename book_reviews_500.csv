@@ -1,0 +1,501 @@
+id,BookTitle,Author,Year,GivenRating,ReviewText,ReviewDate
+1,Where the Wild Things Are,Maurice Sendak,1963,3.2,This book was BORING.  [Review]  'Where the Wild Things Are' by Maurice Sendak !!! @friend,2023-11-15
+2,The Very Hungry Caterpillar,Eric Carle,1969,4.3,This book was LOVED IT.  [Review]  'The Very Hungry Caterpillar' by Eric Carle !!! ✨,2025-01-31
+3,The Giving Tree,Shel Silverstein,1964,3.4,This book was SO BAD.  [note]  'The Giving Tree' by Shel Silverstein @@@ #reading,2024-03-18
+4,Green Eggs and Ham,Dr. Seuss,1960,3.3,This book was LOVED IT.  [note]  'Green Eggs and Ham' by Dr. Seuss ... 💯,2023-10-09
+5,Goodnight Moon,Margaret Wise Brown,1947,5.0,This book was MAGICAL.  [skip this part]  'Goodnight Moon' by Margaret Wise Brown ### @friend,2023-07-25
+6,Charlotte’s Web,E.B. White,1952,4.2,This book was AMAZING.  [skip this part]  'Charlotte’s Web' by E.B. White ??? 💯,2023-10-16
+7,"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,1957,3.2,"This book was LOVED IT.  [spoiler]  'The Cat in the Hat (Cat in the Hat, #1)' by Dr. Seuss @@@ @friend",2025-08-17
+8,Where the Sidewalk Ends,Shel Silverstein,1974,5.0,This book was LOVED IT.  [spoiler]  'Where the Sidewalk Ends' by Shel Silverstein @@@ @friend,2024-11-12
+9,If You Give a Mouse a Cookie,Laura Joffe Numeroff,1985,4.3,This book was AMAZING.  [spoiler]  'If You Give a Mouse a Cookie' by Laura Joffe Numeroff ... @friend,2023-06-02
+10,Love You Forever,Robert Munsch,1986,4.4,This book was AMAZING.  [spoiler]  'Love You Forever' by Robert Munsch ### @friend,2025-05-17
+11,Corduroy,Don Freeman,1968,5.0,This book was AMAZING.  [skip this part]  'Corduroy' by Don Freeman ### @friend,2023-09-25
+12,The Lorax,Dr. Seuss,1971,5.0,This book was SO BAD.  [Review]  'The Lorax' by Dr. Seuss ... @friend,2023-02-13
+13,Madeline,Ludwig Bemelmans,1939,3.3,This book was SO BAD.  [skip this part]  'Madeline' by Ludwig Bemelmans @@@ #reading,2024-04-22
+14,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,1997,5.0,"This book was AMAZING.  [spoiler]  'Harry Potter and the Sorcerer's Stone (Harry Potter, #1)' by J.K. Rowling ... 💯",2024-06-20
+15,The Velveteen Rabbit,Margery Williams Bianco,1922,3.3,This book was SO BAD.  [skip this part]  'The Velveteen Rabbit' by Margery Williams Bianco @@@ 💯,2023-04-22
+16,How the Grinch Stole Christmas!,Dr. Seuss,1957,5.0,This book was SO BAD.  [note]  'How the Grinch Stole Christmas!' by Dr. Seuss ??? http://buybook.com,2023-01-21
+17,Curious George,H.A. Rey,1941,3.2,This book was AMAZING.  [Review]  'Curious George' by H.A. Rey ### ✨,2024-11-22
+18,The Monster at the End of this Book,Jon Stone,1971,4.5,This book was AMAZING.  [note]  'The Monster at the End of this Book' by Jon Stone ??? 💯,2025-05-31
+19,Chicka Chicka Boom Boom,Bill Martin Jr. and John Archambault,1989,4.3,This book was MAGICAL.  [note]  'Chicka Chicka Boom Boom' by Bill Martin Jr. and John Archambault !!! http://buybook.com,2025-05-25
+20,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1960,5.0,"This book was BORING.  [Review]  'One Fish, Two Fish, Red Fish, Blue Fish' by Dr. Seuss ... 💯",2023-12-31
+21,The Little Prince,Antoine de Saint-Exupéry,1943,4.3,This book was MAGICAL.  [skip this part]  'The Little Prince' by Antoine de Saint-Exupéry ??? http://buybook.com,2024-05-25
+22,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr. and Eric Carle,1966,3.3,"This book was SO BAD.  [skip this part]  'Brown Bear, Brown Bear, What Do You See?' by Bill Martin Jr. and Eric Carle ... http://buybook.com",2024-06-10
+23,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,1972,5.0,"This book was BORING.  [skip this part]  'Alexander and the Terrible, Horrible, No Good, Very Bad Day' by Judith Viorst ??? #reading",2024-09-29
+24,Matilda,Roald Dahl,1988,5.0,This book was AMAZING.  [spoiler]  'Matilda' by Roald Dahl !!! http://buybook.com,2024-03-08
+25,"Harold and the Purple Crayon (Harold, #1)",Crockett Johnson,1955,4.3,"This book was SO BAD.  [spoiler]  'Harold and the Purple Crayon (Harold, #1)' by Crockett Johnson @@@ http://buybook.com",2025-03-21
+26,"The Tale of Peter Rabbit (World of Beatrix Potter, #1)",Beatrix Potter,1902,4.2,"This book was AMAZING.  [Review]  'The Tale of Peter Rabbit (World of Beatrix Potter, #1)' by Beatrix Potter ### @friend",2024-11-13
+27,Are You My Mother?,P.D. Eastman,1960,3.2,This book was BORING.  [note]  'Are You My Mother?' by P.D. Eastman @@@ @friend,2024-12-30
+28,"Frog and Toad Are Friends (Frog and Toad, #1)",Arnold Lobel,1970,4.2,"This book was BORING.  [spoiler]  'Frog and Toad Are Friends (Frog and Toad, #1)' by Arnold Lobel !!! 💯",2024-01-06
+29,"Oh, the Places You’ll Go!",Dr. Seuss,1990,3.4,"This book was LOVED IT.  [skip this part]  'Oh, the Places You’ll Go!' by Dr. Seuss ... 💯",2024-03-05
+30,"Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)",Judi Barrett,1978,4.2,"This book was LOVED IT.  [spoiler]  'Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)' by Judi Barrett ??? ✨",2024-08-03
+31,"The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)",A.A. Milne,1926,5.0,"This book was SO BAD.  [note]  'The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)' by A.A. Milne ### @friend",2023-10-03
+32,The Secret Garden,Frances Hodgson Burnett,1911,3.2,This book was SO BAD.  [note]  'The Secret Garden' by Frances Hodgson Burnett ... #reading,2025-07-02
+33,Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,1865,5.0,This book was AMAZING.  [skip this part]  'Alice’s Adventures in Wonderland / Through the Looking-Glass' by Lewis Carroll ### #reading,2025-03-11
+34,Guess How Much I Love You,Sam McBratney,1994,4.4,This book was BORING.  [Review]  'Guess How Much I Love You' by Sam McBratney ??? http://buybook.com,2023-10-03
+35,Horton Hears a Who!,Dr. Seuss,1954,4.2,This book was AMAZING.  [spoiler]  'Horton Hears a Who!' by Dr. Seuss ... ✨,2024-04-28
+36,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,1950,5.0,"This book was LOVED IT.  [note]  'The Chronicles of Narnia (The Chronicles of Narnia, #1-7)' by C.S. Lewis ??? @friend",2023-08-24
+37,"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,1945,4.2,"This book was BORING.  [skip this part]  'Pippi Longstocking (Pippi Långstrump, #1)' by Astrid Lindgren ### http://buybook.com",2023-03-28
+38,The True Story of the 3 Little Pigs,Jon Scieszka,1989,3.3,This book was SO BAD.  [spoiler]  'The True Story of the 3 Little Pigs' by Jon Scieszka ### 💯,2024-04-19
+39,The Little Engine That Could,Watty Piper,1930,5.0,This book was SO BAD.  [note]  'The Little Engine That Could' by Watty Piper ... http://buybook.com,2025-01-10
+40,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,1908,3.3,"This book was LOVED IT.  [spoiler]  'Anne of Green Gables (Anne of Green Gables, #1)' by L.M. Montgomery @@@ #reading",2025-01-30
+41,"Amelia Bedelia (Amelia Bedelia, #1)",Peggy Parish,1963,4.2,"This book was AMAZING.  [spoiler]  'Amelia Bedelia (Amelia Bedelia, #1)' by Peggy Parish ... 💯",2023-11-23
+42,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,1964,3.2,"This book was LOVED IT.  [Review]  'Charlie and the Chocolate Factory (Charlie Bucket, #1)' by Roald Dahl ... http://buybook.com",2023-09-06
+43,"The Hobbit, or There and Back Again (The Lord of the Rings, #0)",J.R.R. Tolkien,1937,5.0,"This book was MAGICAL.  [skip this part]  'The Hobbit, or There and Back Again (The Lord of the Rings, #0)' by J.R.R. Tolkien !!! ✨",2023-09-22
+44,The BFG,Roald Dahl,1982,5.0,This book was AMAZING.  [skip this part]  'The BFG' by Roald Dahl !!! ✨,2024-04-17
+45,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,1992,4.2,This book was LOVED IT.  [Review]  'The Stinky Cheese Man and Other Fairly Stupid Tales' by Jon Scieszka ### ✨,2025-06-08
+46,Stellaluna,Janell Cannon,1993,4.3,This book was BORING.  [Review]  'Stellaluna' by Janell Cannon ??? 💯,2024-01-09
+47,The Poky Little Puppy,Janette Sebring Lowrey,1942,4.1,This book was MAGICAL.  [spoiler]  'The Poky Little Puppy' by Janette Sebring Lowrey !!! 💯,2023-07-07
+48,Make Way for Ducklings,Robert McCloskey,1941,4.2,This book was AMAZING.  [Review]  'Make Way for Ducklings' by Robert McCloskey !!! 💯,2025-05-04
+49,James and the Giant Peach,Roald Dahl,1961,4.0,This book was LOVED IT.  [note]  'James and the Giant Peach' by Roald Dahl !!! ✨,2023-08-30
+50,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,1962,4.0,"This book was BORING.  [note]  'A Wrinkle in Time (Time Quintet, #1)' by Madeleine L'Engle ??? ✨",2023-02-07
+51,Don't Let the Pigeon Drive the Bus!,Mo Willems,2003,5.0,This book was LOVED IT.  [skip this part]  'Don't Let the Pigeon Drive the Bus!' by Mo Willems !!! ✨,2023-09-27
+52,The Polar Express,Chris Van Allsburg,1985,3.3,This book was AMAZING.  [spoiler]  'The Polar Express' by Chris Van Allsburg ... #reading,2024-11-29
+53,The Phantom Tollbooth,Norton Juster,1961,3.2,This book was LOVED IT.  [skip this part]  'The Phantom Tollbooth' by Norton Juster ... ✨,2023-05-20
+54,"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,1932,4.2,"This book was LOVED IT.  [note]  'Little House in the Big Woods (Little House, #1)' by Laura Ingalls Wilder @@@ @friend",2025-07-05
+55,"Go, Dog. Go!",P.D. Eastman,1961,3.2,"This book was MAGICAL.  [spoiler]  'Go, Dog. Go!' by P.D. Eastman @@@ ✨",2024-04-22
+56,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,1900,3.0,"This book was MAGICAL.  [skip this part]  'The Wonderful Wizard of Oz (Oz, #1)' by L. Frank Baum !!! 💯",2024-07-26
+57,The Rainbow Fish,Marcus Pfister,1992,5.0,This book was BORING.  [skip this part]  'The Rainbow Fish' by Marcus Pfister ### ✨,2023-12-12
+58,"The Giver (The Giver, #1)",Lois Lowry,1993,3.1,"This book was SO BAD.  [skip this part]  'The Giver (The Giver, #1)' by Lois Lowry ### 💯",2025-04-03
+59,The Story of Ferdinand,Munro Leaf,1936,4.4,This book was MAGICAL.  [note]  'The Story of Ferdinand' by Munro Leaf !!! ✨,2024-02-19
+60,The Night Before Christmas,Clement Clarke Moore,1823,4.4,This book was AMAZING.  [skip this part]  'The Night Before Christmas' by Clement Clarke Moore ### #reading,2024-12-24
+61,Bridge to Terabithia,Katherine Paterson,1977,4.0,This book was MAGICAL.  [Review]  'Bridge to Terabithia' by Katherine Paterson @@@ http://buybook.com,2025-03-21
+62,Blueberries for Sal,Robert McCloskey,1948,3.2,This book was SO BAD.  [note]  'Blueberries for Sal' by Robert McCloskey !!! 💯,2023-07-29
+63,"Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",Esphyr Slobodkina,1940,3.2,"This book was LOVED IT.  [spoiler]  'Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business' by Esphyr Slobodkina ### http://buybook.com",2024-07-16
+64,The Witches,Roald Dahl,1983,4.2,This book was BORING.  [skip this part]  'The Witches' by Roald Dahl ... 💯,2024-11-05
+65,Clifford the Big Red Dog,Norman Bridwell,1963,5.0,This book was BORING.  [skip this part]  'Clifford the Big Red Dog' by Norman Bridwell !!! http://buybook.com,2024-09-28
+66,Fox in Socks,Dr. Seuss,1965,4.1,This book was AMAZING.  [note]  'Fox in Socks' by Dr. Seuss ??? @friend,2025-02-28
+67,"Little Bear (Little Bear, #1)",Else Holmelund Minarik,1957,4.2,"This book was MAGICAL.  [Review]  'Little Bear (Little Bear, #1)' by Else Holmelund Minarik ### ✨",2023-02-20
+68,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,1950,5.0,"This book was MAGICAL.  [Review]  'The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)' by C.S. Lewis ### @friend",2023-09-18
+69,The Paper Bag Princess,Robert Munsch,1980,5.0,This book was LOVED IT.  [Review]  'The Paper Bag Princess' by Robert Munsch ### http://buybook.com,2025-02-05
+70,"The Snowy Day (Peter, #1)",Ezra Jack Keats,1962,4.2,"This book was LOVED IT.  [spoiler]  'The Snowy Day (Peter, #1)' by Ezra Jack Keats ### 💯",2025-02-14
+71,Tikki Tikki Tembo,Arlene Mosel,1968,5.0,This book was AMAZING.  [spoiler]  'Tikki Tikki Tembo' by Arlene Mosel ### @friend,2023-07-25
+72,A Bad Case of Stripes (Scholastic Bookshelf),David Shannon,1998,4.3,This book was AMAZING.  [spoiler]  'A Bad Case of Stripes (Scholastic Bookshelf)' by David Shannon ... 💯,2025-03-22
+73,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,1926,4.4,"This book was LOVED IT.  [Review]  'Winnie-the-Pooh (Winnie-the-Pooh, #1)' by A.A. Milne @@@ http://buybook.com",2024-11-26
+74,Chrysanthemum,Kevin Henkes,1991,4.3,This book was BORING.  [skip this part]  'Chrysanthemum' by Kevin Henkes !!! @friend,2023-08-29
+75,"Miss Nelson Is Missing! (Miss Nelson, #1)",Harry Allard,1977,3.3,"This book was MAGICAL.  [note]  'Miss Nelson Is Missing! (Miss Nelson, #1)' by Harry Allard !!! ✨",2023-01-30
+76,Falling Up,Shel Silverstein,1996,4.4,This book was BORING.  [spoiler]  'Falling Up' by Shel Silverstein ... ✨,2025-05-22
+77,"Click, Clack, Moo: Cows That Type",Doreen Cronin,2000,4.3,"This book was LOVED IT.  [Review]  'Click, Clack, Moo: Cows That Type' by Doreen Cronin ... http://buybook.com",2023-08-25
+78,The Tale of Despereaux,Kate DiCamillo,2003,4.1,This book was AMAZING.  [skip this part]  'The Tale of Despereaux' by Kate DiCamillo @@@ @friend,2023-09-04
+79,The Sneetches and Other Stories,Dr. Seuss,1961,4.3,This book was AMAZING.  [skip this part]  'The Sneetches and Other Stories' by Dr. Seuss ... ✨,2024-03-12
+80,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,1967,4.2,This book was MAGICAL.  [note]  'From the Mixed-Up Files of Mrs. Basil E. Frankweiler' by E.L. Konigsburg ??? ✨,2024-02-17
+81,"The Story of Babar (Babar, #1)",Jean de Brunhoff,1931,4.1,"This book was SO BAD.  [skip this part]  'The Story of Babar (Babar, #1)' by Jean de Brunhoff ... 💯",2025-06-20
+82,"The Indian in the Cupboard (The Indian in the Cupboard, #1)",Lynne Reid Banks,1980,3.9,"This book was MAGICAL.  [Review]  'The Indian in the Cupboard (The Indian in the Cupboard, #1)' by Lynne Reid Banks ... http://buybook.com",2024-11-28
+83,The Adventures of Tom Sawyer,Mark Twain,1876,2.9,This book was MAGICAL.  [Review]  'The Adventures of Tom Sawyer' by Mark Twain !!! 💯,2023-11-21
+84,"The Mouse and the Motorcycle (Ralph S. Mouse, #1)",Beverly Cleary,1965,3.0,"This book was LOVED IT.  [note]  'The Mouse and the Motorcycle (Ralph S. Mouse, #1)' by Beverly Cleary !!! ✨",2025-03-16
+85,"Olivia (Olivia, #1)",Ian Falconer,2000,5.0,"This book was LOVED IT.  [Review]  'Olivia (Olivia, #1)' by Ian Falconer !!! 💯",2024-04-06
+86,"Sideways Stories from Wayside School (Wayside School, #1)",Louis Sachar,1978,3.2,"This book was AMAZING.  [Review]  'Sideways Stories from Wayside School (Wayside School, #1)' by Louis Sachar ... @friend",2023-08-23
+87,"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,1932,4.4,"This book was BORING.  [note]  'The Little House Collection (Little House, #1-9)' by Laura Ingalls Wilder @@@ @friend",2023-01-14
+88,The Neverending Story,Michael Ende,1979,3.2,This book was AMAZING.  [note]  'The Neverending Story' by Michael Ende ??? http://buybook.com,2024-11-10
+89,"Ramona the Pest (Ramona, #2)",Beverly Cleary,1968,3.1,"This book was MAGICAL.  [Review]  'Ramona the Pest (Ramona, #2)' by Beverly Cleary ... 💯",2024-01-11
+90,Hop On Pop,Dr. Seuss,1963,3.0,This book was MAGICAL.  [Review]  'Hop On Pop' by Dr. Seuss ... ✨,2023-06-22
+91,The Little House,Virginia Lee Burton,1942,4.3,This book was AMAZING.  [spoiler]  'The Little House' by Virginia Lee Burton ... 💯,2025-06-07
+92,Harry the Dirty Dog,Gene Zion,1956,5.0,This book was AMAZING.  [spoiler]  'Harry the Dirty Dog' by Gene Zion @@@ @friend,2025-03-29
+93,The Runaway Bunny,Margaret Wise Brown,1942,4.1,This book was BORING.  [spoiler]  'The Runaway Bunny' by Margaret Wise Brown !!! http://buybook.com,2024-08-26
+94,Horton Hatches the Egg,Dr. Seuss,1940,5.0,This book was AMAZING.  [Review]  'Horton Hatches the Egg' by Dr. Seuss ### #reading,2024-08-08
+95,"Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)",Deborah Howe,1979,3.9,"This book was MAGICAL.  [spoiler]  'Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)' by Deborah Howe ### http://buybook.com",2024-09-03
+96,Stone Soup,Jon J. Muth,2003,5.0,This book was MAGICAL.  [note]  'Stone Soup' by Jon J. Muth @@@ @friend,2024-07-11
+97,A Light in the Attic,Shel Silverstein,1981,4.4,This book was SO BAD.  [spoiler]  'A Light in the Attic' by Shel Silverstein @@@ 💯,2023-11-06
+98,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,1999,5.0,"This book was SO BAD.  [spoiler]  'Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)' by J.K. Rowling ??? 💯",2025-02-24
+99,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,1998,4.4,"This book was SO BAD.  [skip this part]  'Harry Potter and the Chamber of Secrets (Harry Potter, #2)' by J.K. Rowling ... @friend",2023-06-11
+100,The Three Billy Goats Gruff,Paul Galdone,1973,3.2,This book was SO BAD.  [note]  'The Three Billy Goats Gruff' by Paul Galdone ... #reading,2024-03-17
+101,Where the Wild Things Are,Maurice Sendak,1963,4.2,This book was AMAZING.  [spoiler]  'Where the Wild Things Are' by Maurice Sendak ??? http://buybook.com,2024-12-28
+102,The Very Hungry Caterpillar,Eric Carle,1969,4.3,This book was SO BAD.  [note]  'The Very Hungry Caterpillar' by Eric Carle @@@ @friend,2025-05-05
+103,The Giving Tree,Shel Silverstein,1964,3.4,This book was SO BAD.  [Review]  'The Giving Tree' by Shel Silverstein ... #reading,2024-01-28
+104,Green Eggs and Ham,Dr. Seuss,1960,5.0,This book was LOVED IT.  [skip this part]  'Green Eggs and Ham' by Dr. Seuss ### #reading,2025-05-16
+105,Goodnight Moon,Margaret Wise Brown,1947,4.3,This book was BORING.  [spoiler]  'Goodnight Moon' by Margaret Wise Brown !!! ✨,2025-07-04
+106,Charlotte’s Web,E.B. White,1952,4.2,This book was AMAZING.  [Review]  'Charlotte’s Web' by E.B. White ### ✨,2025-04-10
+107,"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,1957,5.0,"This book was LOVED IT.  [Review]  'The Cat in the Hat (Cat in the Hat, #1)' by Dr. Seuss @@@ ✨",2024-05-24
+108,Where the Sidewalk Ends,Shel Silverstein,1974,5.0,This book was LOVED IT.  [note]  'Where the Sidewalk Ends' by Shel Silverstein ??? 💯,2024-01-20
+109,If You Give a Mouse a Cookie,Laura Joffe Numeroff,1985,5.0,This book was BORING.  [note]  'If You Give a Mouse a Cookie' by Laura Joffe Numeroff @@@ http://buybook.com,2025-06-01
+110,Love You Forever,Robert Munsch,1986,5.0,This book was MAGICAL.  [skip this part]  'Love You Forever' by Robert Munsch !!! @friend,2024-08-09
+111,Corduroy,Don Freeman,1968,4.3,This book was LOVED IT.  [spoiler]  'Corduroy' by Don Freeman !!! #reading,2024-08-23
+112,The Lorax,Dr. Seuss,1971,3.3,This book was AMAZING.  [note]  'The Lorax' by Dr. Seuss ... http://buybook.com,2023-11-29
+113,Madeline,Ludwig Bemelmans,1939,4.3,This book was SO BAD.  [Review]  'Madeline' by Ludwig Bemelmans ### 💯,2023-10-02
+114,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,1997,5.0,"This book was BORING.  [Review]  'Harry Potter and the Sorcerer's Stone (Harry Potter, #1)' by J.K. Rowling ... ✨",2023-08-05
+115,The Velveteen Rabbit,Margery Williams Bianco,1922,3.3,This book was SO BAD.  [note]  'The Velveteen Rabbit' by Margery Williams Bianco !!! #reading,2024-05-28
+116,How the Grinch Stole Christmas!,Dr. Seuss,1957,4.4,This book was AMAZING.  [note]  'How the Grinch Stole Christmas!' by Dr. Seuss @@@ #reading,2024-07-11
+117,Curious George,H.A. Rey,1941,4.2,This book was LOVED IT.  [spoiler]  'Curious George' by H.A. Rey ### @friend,2024-11-27
+118,The Monster at the End of this Book,Jon Stone,1971,5.0,This book was BORING.  [Review]  'The Monster at the End of this Book' by Jon Stone ... ✨,2024-11-20
+119,Chicka Chicka Boom Boom,Bill Martin Jr. and John Archambault,1989,4.3,This book was LOVED IT.  [Review]  'Chicka Chicka Boom Boom' by Bill Martin Jr. and John Archambault !!! #reading,2024-12-23
+120,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1960,4.2,"This book was BORING.  [spoiler]  'One Fish, Two Fish, Red Fish, Blue Fish' by Dr. Seuss ??? @friend",2023-09-12
+121,The Little Prince,Antoine de Saint-Exupéry,1943,3.3,This book was AMAZING.  [Review]  'The Little Prince' by Antoine de Saint-Exupéry @@@ 💯,2023-09-12
+122,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr. and Eric Carle,1966,4.3,"This book was MAGICAL.  [note]  'Brown Bear, Brown Bear, What Do You See?' by Bill Martin Jr. and Eric Carle ... ✨",2025-05-24
+123,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,1972,3.2,"This book was AMAZING.  [spoiler]  'Alexander and the Terrible, Horrible, No Good, Very Bad Day' by Judith Viorst ??? http://buybook.com",2025-02-07
+124,Matilda,Roald Dahl,1988,4.3,This book was MAGICAL.  [note]  'Matilda' by Roald Dahl !!! http://buybook.com,2024-10-10
+125,"Harold and the Purple Crayon (Harold, #1)",Crockett Johnson,1955,4.3,"This book was BORING.  [skip this part]  'Harold and the Purple Crayon (Harold, #1)' by Crockett Johnson ... http://buybook.com",2023-08-31
+126,"The Tale of Peter Rabbit (World of Beatrix Potter, #1)",Beatrix Potter,1902,3.2,"This book was AMAZING.  [spoiler]  'The Tale of Peter Rabbit (World of Beatrix Potter, #1)' by Beatrix Potter ??? #reading",2025-08-07
+127,Are You My Mother?,P.D. Eastman,1960,5.0,This book was BORING.  [Review]  'Are You My Mother?' by P.D. Eastman ### ✨,2024-12-17
+128,"Frog and Toad Are Friends (Frog and Toad, #1)",Arnold Lobel,1970,5.0,"This book was AMAZING.  [skip this part]  'Frog and Toad Are Friends (Frog and Toad, #1)' by Arnold Lobel !!! ✨",2024-01-05
+129,"Oh, the Places You’ll Go!",Dr. Seuss,1990,4.4,"This book was AMAZING.  [note]  'Oh, the Places You’ll Go!' by Dr. Seuss ??? 💯",2023-02-09
+130,"Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)",Judi Barrett,1978,4.2,"This book was LOVED IT.  [spoiler]  'Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)' by Judi Barrett ??? ✨",2024-03-25
+131,"The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)",A.A. Milne,1926,5.0,"This book was LOVED IT.  [note]  'The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)' by A.A. Milne !!! ✨",2024-02-17
+132,The Secret Garden,Frances Hodgson Burnett,1911,5.0,This book was LOVED IT.  [Review]  'The Secret Garden' by Frances Hodgson Burnett ### 💯,2023-05-04
+133,Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,1865,5.0,This book was BORING.  [note]  'Alice’s Adventures in Wonderland / Through the Looking-Glass' by Lewis Carroll !!! @friend,2023-10-19
+134,Guess How Much I Love You,Sam McBratney,1994,4.4,This book was SO BAD.  [Review]  'Guess How Much I Love You' by Sam McBratney ... http://buybook.com,2023-12-17
+135,Horton Hears a Who!,Dr. Seuss,1954,4.2,This book was AMAZING.  [note]  'Horton Hears a Who!' by Dr. Seuss ??? #reading,2023-11-03
+136,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,1950,5.0,"This book was MAGICAL.  [spoiler]  'The Chronicles of Narnia (The Chronicles of Narnia, #1-7)' by C.S. Lewis ### ✨",2024-09-18
+137,"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,1945,5.0,"This book was SO BAD.  [spoiler]  'Pippi Longstocking (Pippi Långstrump, #1)' by Astrid Lindgren !!! #reading",2023-08-16
+138,The True Story of the 3 Little Pigs,Jon Scieszka,1989,3.3,This book was BORING.  [spoiler]  'The True Story of the 3 Little Pigs' by Jon Scieszka @@@ http://buybook.com,2023-09-13
+139,The Little Engine That Could,Watty Piper,1930,4.2,This book was LOVED IT.  [Review]  'The Little Engine That Could' by Watty Piper ??? #reading,2023-11-05
+140,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,1908,3.3,"This book was LOVED IT.  [note]  'Anne of Green Gables (Anne of Green Gables, #1)' by L.M. Montgomery ??? #reading",2024-01-08
+141,"Amelia Bedelia (Amelia Bedelia, #1)",Peggy Parish,1963,5.0,"This book was MAGICAL.  [Review]  'Amelia Bedelia (Amelia Bedelia, #1)' by Peggy Parish ... @friend",2025-02-19
+142,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,1964,4.2,"This book was BORING.  [note]  'Charlie and the Chocolate Factory (Charlie Bucket, #1)' by Roald Dahl ... ✨",2025-01-05
+143,"The Hobbit, or There and Back Again (The Lord of the Rings, #0)",J.R.R. Tolkien,1937,5.0,"This book was LOVED IT.  [skip this part]  'The Hobbit, or There and Back Again (The Lord of the Rings, #0)' by J.R.R. Tolkien ??? ✨",2024-03-05
+144,The BFG,Roald Dahl,1982,4.2,This book was SO BAD.  [Review]  'The BFG' by Roald Dahl ... 💯,2023-01-15
+145,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,1992,4.2,This book was SO BAD.  [note]  'The Stinky Cheese Man and Other Fairly Stupid Tales' by Jon Scieszka ... ✨,2023-08-22
+146,Stellaluna,Janell Cannon,1993,4.3,This book was LOVED IT.  [spoiler]  'Stellaluna' by Janell Cannon ... http://buybook.com,2024-04-22
+147,The Poky Little Puppy,Janette Sebring Lowrey,1942,3.1,This book was MAGICAL.  [skip this part]  'The Poky Little Puppy' by Janette Sebring Lowrey ### ✨,2024-05-22
+148,Make Way for Ducklings,Robert McCloskey,1941,3.2,This book was BORING.  [skip this part]  'Make Way for Ducklings' by Robert McCloskey ??? 💯,2025-04-29
+149,James and the Giant Peach,Roald Dahl,1961,4.0,This book was MAGICAL.  [note]  'James and the Giant Peach' by Roald Dahl ... #reading,2023-08-07
+150,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,1962,5.0,"This book was AMAZING.  [note]  'A Wrinkle in Time (Time Quintet, #1)' by Madeleine L'Engle @@@ http://buybook.com",2023-02-09
+151,Don't Let the Pigeon Drive the Bus!,Mo Willems,2003,3.3,This book was SO BAD.  [Review]  'Don't Let the Pigeon Drive the Bus!' by Mo Willems ??? http://buybook.com,2023-09-01
+152,The Polar Express,Chris Van Allsburg,1985,4.3,This book was MAGICAL.  [spoiler]  'The Polar Express' by Chris Van Allsburg ### http://buybook.com,2024-02-03
+153,The Phantom Tollbooth,Norton Juster,1961,3.2,This book was SO BAD.  [Review]  'The Phantom Tollbooth' by Norton Juster ... ✨,2023-05-24
+154,"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,1932,4.2,"This book was BORING.  [skip this part]  'Little House in the Big Woods (Little House, #1)' by Laura Ingalls Wilder ... #reading",2023-11-21
+155,"Go, Dog. Go!",P.D. Eastman,1961,5.0,"This book was SO BAD.  [spoiler]  'Go, Dog. Go!' by P.D. Eastman ### #reading",2025-04-05
+156,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,1900,5.0,"This book was MAGICAL.  [Review]  'The Wonderful Wizard of Oz (Oz, #1)' by L. Frank Baum ### #reading",2025-03-03
+157,The Rainbow Fish,Marcus Pfister,1992,5.0,This book was SO BAD.  [Review]  'The Rainbow Fish' by Marcus Pfister !!! 💯,2024-03-12
+158,"The Giver (The Giver, #1)",Lois Lowry,1993,5.0,"This book was LOVED IT.  [spoiler]  'The Giver (The Giver, #1)' by Lois Lowry ... @friend",2024-02-09
+159,The Story of Ferdinand,Munro Leaf,1936,4.4,This book was SO BAD.  [spoiler]  'The Story of Ferdinand' by Munro Leaf @@@ 💯,2024-05-01
+160,The Night Before Christmas,Clement Clarke Moore,1823,4.4,This book was LOVED IT.  [note]  'The Night Before Christmas' by Clement Clarke Moore ... @friend,2025-03-18
+161,Bridge to Terabithia,Katherine Paterson,1977,4.0,This book was MAGICAL.  [Review]  'Bridge to Terabithia' by Katherine Paterson ... 💯,2025-01-10
+162,Blueberries for Sal,Robert McCloskey,1948,5.0,This book was MAGICAL.  [Review]  'Blueberries for Sal' by Robert McCloskey !!! http://buybook.com,2023-12-28
+163,"Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",Esphyr Slobodkina,1940,5.0,"This book was SO BAD.  [note]  'Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business' by Esphyr Slobodkina ### @friend",2023-09-10
+164,The Witches,Roald Dahl,1983,5.0,This book was AMAZING.  [spoiler]  'The Witches' by Roald Dahl !!! #reading,2025-01-17
+165,Clifford the Big Red Dog,Norman Bridwell,1963,3.2,This book was BORING.  [skip this part]  'Clifford the Big Red Dog' by Norman Bridwell ... @friend,2023-08-23
+166,Fox in Socks,Dr. Seuss,1965,4.1,This book was MAGICAL.  [spoiler]  'Fox in Socks' by Dr. Seuss ??? #reading,2023-01-16
+167,"Little Bear (Little Bear, #1)",Else Holmelund Minarik,1957,4.2,"This book was MAGICAL.  [Review]  'Little Bear (Little Bear, #1)' by Else Holmelund Minarik @@@ http://buybook.com",2025-05-26
+168,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,1950,5.0,"This book was AMAZING.  [spoiler]  'The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)' by C.S. Lewis !!! 💯",2025-03-24
+169,The Paper Bag Princess,Robert Munsch,1980,4.3,This book was SO BAD.  [spoiler]  'The Paper Bag Princess' by Robert Munsch ??? 💯,2024-04-28
+170,"The Snowy Day (Peter, #1)",Ezra Jack Keats,1962,4.2,"This book was BORING.  [note]  'The Snowy Day (Peter, #1)' by Ezra Jack Keats ??? @friend",2024-11-08
+171,Tikki Tikki Tembo,Arlene Mosel,1968,4.2,This book was MAGICAL.  [spoiler]  'Tikki Tikki Tembo' by Arlene Mosel ??? @friend,2024-01-06
+172,A Bad Case of Stripes (Scholastic Bookshelf),David Shannon,1998,4.3,This book was SO BAD.  [skip this part]  'A Bad Case of Stripes (Scholastic Bookshelf)' by David Shannon ??? ✨,2023-08-08
+173,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,1926,4.4,"This book was SO BAD.  [spoiler]  'Winnie-the-Pooh (Winnie-the-Pooh, #1)' by A.A. Milne !!! #reading",2025-06-24
+174,Chrysanthemum,Kevin Henkes,1991,4.3,This book was SO BAD.  [skip this part]  'Chrysanthemum' by Kevin Henkes @@@ ✨,2023-05-18
+175,"Miss Nelson Is Missing! (Miss Nelson, #1)",Harry Allard,1977,4.3,"This book was MAGICAL.  [Review]  'Miss Nelson Is Missing! (Miss Nelson, #1)' by Harry Allard ### @friend",2023-11-28
+176,Falling Up,Shel Silverstein,1996,5.0,This book was SO BAD.  [spoiler]  'Falling Up' by Shel Silverstein ### @friend,2024-09-09
+177,"Click, Clack, Moo: Cows That Type",Doreen Cronin,2000,5.0,"This book was BORING.  [spoiler]  'Click, Clack, Moo: Cows That Type' by Doreen Cronin ??? @friend",2025-04-30
+178,The Tale of Despereaux,Kate DiCamillo,2003,4.1,This book was AMAZING.  [note]  'The Tale of Despereaux' by Kate DiCamillo ### 💯,2025-04-03
+179,The Sneetches and Other Stories,Dr. Seuss,1961,5.0,This book was AMAZING.  [skip this part]  'The Sneetches and Other Stories' by Dr. Seuss @@@ 💯,2025-01-01
+180,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,1967,5.0,This book was BORING.  [note]  'From the Mixed-Up Files of Mrs. Basil E. Frankweiler' by E.L. Konigsburg ... @friend,2023-08-02
+181,"The Story of Babar (Babar, #1)",Jean de Brunhoff,1931,4.1,"This book was AMAZING.  [Review]  'The Story of Babar (Babar, #1)' by Jean de Brunhoff @@@ 💯",2023-09-10
+182,"The Indian in the Cupboard (The Indian in the Cupboard, #1)",Lynne Reid Banks,1980,4.9,"This book was LOVED IT.  [spoiler]  'The Indian in the Cupboard (The Indian in the Cupboard, #1)' by Lynne Reid Banks ### #reading",2024-11-10
+183,The Adventures of Tom Sawyer,Mark Twain,1876,3.9,This book was LOVED IT.  [skip this part]  'The Adventures of Tom Sawyer' by Mark Twain ... 💯,2023-11-25
+184,"The Mouse and the Motorcycle (Ralph S. Mouse, #1)",Beverly Cleary,1965,4.0,"This book was LOVED IT.  [spoiler]  'The Mouse and the Motorcycle (Ralph S. Mouse, #1)' by Beverly Cleary ??? ✨",2023-06-19
+185,"Olivia (Olivia, #1)",Ian Falconer,2000,4.2,"This book was MAGICAL.  [Review]  'Olivia (Olivia, #1)' by Ian Falconer ... #reading",2025-01-01
+186,"Sideways Stories from Wayside School (Wayside School, #1)",Louis Sachar,1978,3.2,"This book was LOVED IT.  [Review]  'Sideways Stories from Wayside School (Wayside School, #1)' by Louis Sachar ??? http://buybook.com",2024-02-13
+187,"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,1932,4.4,"This book was SO BAD.  [spoiler]  'The Little House Collection (Little House, #1-9)' by Laura Ingalls Wilder !!! #reading",2024-12-06
+188,The Neverending Story,Michael Ende,1979,3.2,This book was AMAZING.  [Review]  'The Neverending Story' by Michael Ende @@@ @friend,2024-01-12
+189,"Ramona the Pest (Ramona, #2)",Beverly Cleary,1968,4.1,"This book was MAGICAL.  [spoiler]  'Ramona the Pest (Ramona, #2)' by Beverly Cleary ... 💯",2024-01-24
+190,Hop On Pop,Dr. Seuss,1963,5.0,This book was SO BAD.  [skip this part]  'Hop On Pop' by Dr. Seuss ### @friend,2024-10-04
+191,The Little House,Virginia Lee Burton,1942,5.0,This book was SO BAD.  [skip this part]  'The Little House' by Virginia Lee Burton ... @friend,2024-08-11
+192,Harry the Dirty Dog,Gene Zion,1956,4.2,This book was BORING.  [Review]  'Harry the Dirty Dog' by Gene Zion ### 💯,2025-07-04
+193,The Runaway Bunny,Margaret Wise Brown,1942,4.1,This book was MAGICAL.  [Review]  'The Runaway Bunny' by Margaret Wise Brown @@@ http://buybook.com,2024-08-18
+194,Horton Hatches the Egg,Dr. Seuss,1940,4.2,This book was LOVED IT.  [spoiler]  'Horton Hatches the Egg' by Dr. Seuss !!! 💯,2023-01-31
+195,"Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)",Deborah Howe,1979,2.9,"This book was MAGICAL.  [skip this part]  'Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)' by Deborah Howe @@@ @friend",2025-03-13
+196,Stone Soup,Jon J. Muth,2003,4.2,This book was BORING.  [skip this part]  'Stone Soup' by Jon J. Muth ... http://buybook.com,2025-03-22
+197,A Light in the Attic,Shel Silverstein,1981,5.0,This book was BORING.  [Review]  'A Light in the Attic' by Shel Silverstein @@@ 💯,2024-06-13
+198,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,1999,4.6,"This book was LOVED IT.  [spoiler]  'Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)' by J.K. Rowling @@@ http://buybook.com",2025-01-27
+199,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,1998,5.0,"This book was MAGICAL.  [skip this part]  'Harry Potter and the Chamber of Secrets (Harry Potter, #2)' by J.K. Rowling ### 💯",2023-12-24
+200,The Three Billy Goats Gruff,Paul Galdone,1973,4.2,This book was BORING.  [skip this part]  'The Three Billy Goats Gruff' by Paul Galdone ??? #reading,2023-03-05
+201,Where the Wild Things Are,Maurice Sendak,1963,5.0,This book was LOVED IT.  [spoiler]  'Where the Wild Things Are' by Maurice Sendak ### @friend,2023-06-04
+202,The Very Hungry Caterpillar,Eric Carle,1969,4.3,This book was BORING.  [Review]  'The Very Hungry Caterpillar' by Eric Carle ??? 💯,2023-07-17
+203,The Giving Tree,Shel Silverstein,1964,4.4,This book was MAGICAL.  [spoiler]  'The Giving Tree' by Shel Silverstein ... ✨,2023-05-26
+204,Green Eggs and Ham,Dr. Seuss,1960,5.0,This book was SO BAD.  [skip this part]  'Green Eggs and Ham' by Dr. Seuss ### @friend,2025-01-12
+205,Goodnight Moon,Margaret Wise Brown,1947,4.3,This book was SO BAD.  [note]  'Goodnight Moon' by Margaret Wise Brown ### 💯,2023-08-23
+206,Charlotte’s Web,E.B. White,1952,4.2,This book was LOVED IT.  [spoiler]  'Charlotte’s Web' by E.B. White @@@ http://buybook.com,2025-04-11
+207,"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,1957,4.2,"This book was LOVED IT.  [Review]  'The Cat in the Hat (Cat in the Hat, #1)' by Dr. Seuss @@@ 💯",2023-05-10
+208,Where the Sidewalk Ends,Shel Silverstein,1974,4.3,This book was BORING.  [Review]  'Where the Sidewalk Ends' by Shel Silverstein !!! ✨,2023-01-13
+209,If You Give a Mouse a Cookie,Laura Joffe Numeroff,1985,4.3,This book was LOVED IT.  [spoiler]  'If You Give a Mouse a Cookie' by Laura Joffe Numeroff ... http://buybook.com,2025-05-02
+210,Love You Forever,Robert Munsch,1986,5.0,This book was MAGICAL.  [skip this part]  'Love You Forever' by Robert Munsch ### #reading,2024-05-11
+211,Corduroy,Don Freeman,1968,4.3,This book was AMAZING.  [Review]  'Corduroy' by Don Freeman !!! 💯,2023-06-12
+212,The Lorax,Dr. Seuss,1971,4.3,This book was SO BAD.  [note]  'The Lorax' by Dr. Seuss ... @friend,2024-03-16
+213,Madeline,Ludwig Bemelmans,1939,4.3,This book was MAGICAL.  [note]  'Madeline' by Ludwig Bemelmans ... #reading,2025-05-22
+214,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,1997,4.5,"This book was LOVED IT.  [spoiler]  'Harry Potter and the Sorcerer's Stone (Harry Potter, #1)' by J.K. Rowling ... ✨",2025-05-23
+215,The Velveteen Rabbit,Margery Williams Bianco,1922,4.3,This book was MAGICAL.  [note]  'The Velveteen Rabbit' by Margery Williams Bianco ??? ✨,2025-04-17
+216,How the Grinch Stole Christmas!,Dr. Seuss,1957,3.4,This book was AMAZING.  [skip this part]  'How the Grinch Stole Christmas!' by Dr. Seuss ??? http://buybook.com,2025-01-07
+217,Curious George,H.A. Rey,1941,3.2,This book was BORING.  [note]  'Curious George' by H.A. Rey ??? 💯,2023-06-30
+218,The Monster at the End of this Book,Jon Stone,1971,4.5,This book was MAGICAL.  [note]  'The Monster at the End of this Book' by Jon Stone !!! @friend,2024-12-18
+219,Chicka Chicka Boom Boom,Bill Martin Jr. and John Archambault,1989,4.3,This book was BORING.  [Review]  'Chicka Chicka Boom Boom' by Bill Martin Jr. and John Archambault ... @friend,2023-07-29
+220,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1960,4.2,"This book was SO BAD.  [note]  'One Fish, Two Fish, Red Fish, Blue Fish' by Dr. Seuss !!! ✨",2025-01-07
+221,The Little Prince,Antoine de Saint-Exupéry,1943,4.3,This book was LOVED IT.  [note]  'The Little Prince' by Antoine de Saint-Exupéry ### http://buybook.com,2024-12-07
+222,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr. and Eric Carle,1966,5.0,"This book was LOVED IT.  [spoiler]  'Brown Bear, Brown Bear, What Do You See?' by Bill Martin Jr. and Eric Carle ### @friend",2025-07-27
+223,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,1972,4.2,"This book was SO BAD.  [spoiler]  'Alexander and the Terrible, Horrible, No Good, Very Bad Day' by Judith Viorst ... 💯",2023-04-18
+224,Matilda,Roald Dahl,1988,4.3,This book was AMAZING.  [spoiler]  'Matilda' by Roald Dahl ??? ✨,2024-01-16
+225,"Harold and the Purple Crayon (Harold, #1)",Crockett Johnson,1955,3.3,"This book was MAGICAL.  [skip this part]  'Harold and the Purple Crayon (Harold, #1)' by Crockett Johnson !!! 💯",2024-06-27
+226,"The Tale of Peter Rabbit (World of Beatrix Potter, #1)",Beatrix Potter,1902,4.2,"This book was SO BAD.  [Review]  'The Tale of Peter Rabbit (World of Beatrix Potter, #1)' by Beatrix Potter @@@ ✨",2025-07-08
+227,Are You My Mother?,P.D. Eastman,1960,3.2,This book was BORING.  [skip this part]  'Are You My Mother?' by P.D. Eastman ??? 💯,2024-06-07
+228,"Frog and Toad Are Friends (Frog and Toad, #1)",Arnold Lobel,1970,3.2,"This book was BORING.  [note]  'Frog and Toad Are Friends (Frog and Toad, #1)' by Arnold Lobel ??? ✨",2024-08-06
+229,"Oh, the Places You’ll Go!",Dr. Seuss,1990,4.4,"This book was AMAZING.  [Review]  'Oh, the Places You’ll Go!' by Dr. Seuss !!! @friend",2025-04-29
+230,"Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)",Judi Barrett,1978,5.0,"This book was BORING.  [Review]  'Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)' by Judi Barrett ... #reading",2025-01-13
+231,"The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)",A.A. Milne,1926,4.4,"This book was BORING.  [note]  'The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)' by A.A. Milne ... ✨",2024-03-01
+232,The Secret Garden,Frances Hodgson Burnett,1911,3.2,This book was MAGICAL.  [Review]  'The Secret Garden' by Frances Hodgson Burnett ### 💯,2024-05-21
+233,Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,1865,5.0,This book was LOVED IT.  [note]  'Alice’s Adventures in Wonderland / Through the Looking-Glass' by Lewis Carroll ### ✨,2024-12-12
+234,Guess How Much I Love You,Sam McBratney,1994,4.4,This book was SO BAD.  [skip this part]  'Guess How Much I Love You' by Sam McBratney ### @friend,2025-04-17
+235,Horton Hears a Who!,Dr. Seuss,1954,4.2,This book was MAGICAL.  [skip this part]  'Horton Hears a Who!' by Dr. Seuss ### #reading,2025-07-20
+236,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,1950,4.3,"This book was LOVED IT.  [Review]  'The Chronicles of Narnia (The Chronicles of Narnia, #1-7)' by C.S. Lewis @@@ 💯",2023-06-10
+237,"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,1945,4.2,"This book was MAGICAL.  [spoiler]  'Pippi Longstocking (Pippi Långstrump, #1)' by Astrid Lindgren ??? #reading",2023-01-12
+238,The True Story of the 3 Little Pigs,Jon Scieszka,1989,5.0,This book was BORING.  [skip this part]  'The True Story of the 3 Little Pigs' by Jon Scieszka @@@ #reading,2023-05-17
+239,The Little Engine That Could,Watty Piper,1930,4.2,This book was AMAZING.  [Review]  'The Little Engine That Could' by Watty Piper @@@ ✨,2023-07-15
+240,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,1908,4.3,"This book was MAGICAL.  [skip this part]  'Anne of Green Gables (Anne of Green Gables, #1)' by L.M. Montgomery @@@ 💯",2025-06-28
+241,"Amelia Bedelia (Amelia Bedelia, #1)",Peggy Parish,1963,4.2,"This book was SO BAD.  [Review]  'Amelia Bedelia (Amelia Bedelia, #1)' by Peggy Parish ... ✨",2023-06-12
+242,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,1964,4.2,"This book was LOVED IT.  [Review]  'Charlie and the Chocolate Factory (Charlie Bucket, #1)' by Roald Dahl ### 💯",2025-03-31
+243,"The Hobbit, or There and Back Again (The Lord of the Rings, #0)",J.R.R. Tolkien,1937,4.3,"This book was BORING.  [skip this part]  'The Hobbit, or There and Back Again (The Lord of the Rings, #0)' by J.R.R. Tolkien ### 💯",2023-11-20
+244,The BFG,Roald Dahl,1982,4.2,This book was LOVED IT.  [Review]  'The BFG' by Roald Dahl !!! 💯,2025-01-15
+245,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,1992,3.2,This book was SO BAD.  [note]  'The Stinky Cheese Man and Other Fairly Stupid Tales' by Jon Scieszka ??? ✨,2025-08-16
+246,Stellaluna,Janell Cannon,1993,3.3,This book was MAGICAL.  [note]  'Stellaluna' by Janell Cannon ### #reading,2024-09-30
+247,The Poky Little Puppy,Janette Sebring Lowrey,1942,4.1,This book was MAGICAL.  [skip this part]  'The Poky Little Puppy' by Janette Sebring Lowrey ??? http://buybook.com,2023-07-29
+248,Make Way for Ducklings,Robert McCloskey,1941,4.2,This book was AMAZING.  [Review]  'Make Way for Ducklings' by Robert McCloskey !!! ✨,2023-03-08
+249,James and the Giant Peach,Roald Dahl,1961,3.0,This book was MAGICAL.  [spoiler]  'James and the Giant Peach' by Roald Dahl ### @friend,2023-06-06
+250,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,1962,4.0,"This book was SO BAD.  [spoiler]  'A Wrinkle in Time (Time Quintet, #1)' by Madeleine L'Engle !!! #reading",2024-05-04
+251,Don't Let the Pigeon Drive the Bus!,Mo Willems,2003,4.3,This book was LOVED IT.  [spoiler]  'Don't Let the Pigeon Drive the Bus!' by Mo Willems ### 💯,2024-04-17
+252,The Polar Express,Chris Van Allsburg,1985,3.3,This book was MAGICAL.  [note]  'The Polar Express' by Chris Van Allsburg ??? #reading,2024-10-26
+253,The Phantom Tollbooth,Norton Juster,1961,4.2,This book was MAGICAL.  [Review]  'The Phantom Tollbooth' by Norton Juster @@@ ✨,2024-07-17
+254,"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,1932,3.2,"This book was AMAZING.  [Review]  'Little House in the Big Woods (Little House, #1)' by Laura Ingalls Wilder !!! #reading",2024-02-12
+255,"Go, Dog. Go!",P.D. Eastman,1961,5.0,"This book was BORING.  [Review]  'Go, Dog. Go!' by P.D. Eastman ### @friend",2023-08-20
+256,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,1900,3.0,"This book was MAGICAL.  [spoiler]  'The Wonderful Wizard of Oz (Oz, #1)' by L. Frank Baum ... ✨",2024-03-17
+257,The Rainbow Fish,Marcus Pfister,1992,3.2,This book was SO BAD.  [Review]  'The Rainbow Fish' by Marcus Pfister ... #reading,2024-06-28
+258,"The Giver (The Giver, #1)",Lois Lowry,1993,4.1,"This book was SO BAD.  [note]  'The Giver (The Giver, #1)' by Lois Lowry ... http://buybook.com",2025-01-03
+259,The Story of Ferdinand,Munro Leaf,1936,3.4,This book was MAGICAL.  [Review]  'The Story of Ferdinand' by Munro Leaf @@@ #reading,2023-11-19
+260,The Night Before Christmas,Clement Clarke Moore,1823,5.0,This book was MAGICAL.  [skip this part]  'The Night Before Christmas' by Clement Clarke Moore !!! http://buybook.com,2024-05-05
+261,Bridge to Terabithia,Katherine Paterson,1977,4.0,This book was MAGICAL.  [Review]  'Bridge to Terabithia' by Katherine Paterson ... @friend,2024-12-08
+262,Blueberries for Sal,Robert McCloskey,1948,4.2,This book was SO BAD.  [note]  'Blueberries for Sal' by Robert McCloskey ### http://buybook.com,2023-03-31
+263,"Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",Esphyr Slobodkina,1940,5.0,"This book was AMAZING.  [spoiler]  'Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business' by Esphyr Slobodkina !!! 💯",2024-11-16
+264,The Witches,Roald Dahl,1983,3.2,This book was MAGICAL.  [note]  'The Witches' by Roald Dahl ... #reading,2023-05-31
+265,Clifford the Big Red Dog,Norman Bridwell,1963,5.0,This book was BORING.  [spoiler]  'Clifford the Big Red Dog' by Norman Bridwell !!! @friend,2024-02-16
+266,Fox in Socks,Dr. Seuss,1965,4.1,This book was MAGICAL.  [skip this part]  'Fox in Socks' by Dr. Seuss @@@ 💯,2023-06-08
+267,"Little Bear (Little Bear, #1)",Else Holmelund Minarik,1957,3.2,"This book was BORING.  [skip this part]  'Little Bear (Little Bear, #1)' by Else Holmelund Minarik !!! ✨",2024-01-10
+268,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,1950,4.2,"This book was AMAZING.  [spoiler]  'The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)' by C.S. Lewis ??? @friend",2024-03-03
+269,The Paper Bag Princess,Robert Munsch,1980,4.3,This book was LOVED IT.  [spoiler]  'The Paper Bag Princess' by Robert Munsch @@@ ✨,2025-02-12
+270,"The Snowy Day (Peter, #1)",Ezra Jack Keats,1962,5.0,"This book was AMAZING.  [Review]  'The Snowy Day (Peter, #1)' by Ezra Jack Keats ... #reading",2025-01-30
+271,Tikki Tikki Tembo,Arlene Mosel,1968,4.2,This book was LOVED IT.  [note]  'Tikki Tikki Tembo' by Arlene Mosel ### http://buybook.com,2025-05-18
+272,A Bad Case of Stripes (Scholastic Bookshelf),David Shannon,1998,4.3,This book was AMAZING.  [note]  'A Bad Case of Stripes (Scholastic Bookshelf)' by David Shannon ... ✨,2025-01-24
+273,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,1926,3.4,"This book was SO BAD.  [spoiler]  'Winnie-the-Pooh (Winnie-the-Pooh, #1)' by A.A. Milne ??? @friend",2023-01-24
+274,Chrysanthemum,Kevin Henkes,1991,5.0,This book was AMAZING.  [Review]  'Chrysanthemum' by Kevin Henkes !!! @friend,2025-06-25
+275,"Miss Nelson Is Missing! (Miss Nelson, #1)",Harry Allard,1977,3.3,"This book was MAGICAL.  [note]  'Miss Nelson Is Missing! (Miss Nelson, #1)' by Harry Allard ??? 💯",2024-09-29
+276,Falling Up,Shel Silverstein,1996,3.4,This book was SO BAD.  [skip this part]  'Falling Up' by Shel Silverstein ??? http://buybook.com,2024-06-24
+277,"Click, Clack, Moo: Cows That Type",Doreen Cronin,2000,4.3,"This book was MAGICAL.  [skip this part]  'Click, Clack, Moo: Cows That Type' by Doreen Cronin ### ✨",2023-10-12
+278,The Tale of Despereaux,Kate DiCamillo,2003,4.1,This book was AMAZING.  [Review]  'The Tale of Despereaux' by Kate DiCamillo ... ✨,2024-09-06
+279,The Sneetches and Other Stories,Dr. Seuss,1961,5.0,This book was LOVED IT.  [note]  'The Sneetches and Other Stories' by Dr. Seuss ### 💯,2023-06-17
+280,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,1967,4.2,This book was LOVED IT.  [note]  'From the Mixed-Up Files of Mrs. Basil E. Frankweiler' by E.L. Konigsburg ... ✨,2023-08-05
+281,"The Story of Babar (Babar, #1)",Jean de Brunhoff,1931,4.1,"This book was SO BAD.  [spoiler]  'The Story of Babar (Babar, #1)' by Jean de Brunhoff ... 💯",2023-06-05
+282,"The Indian in the Cupboard (The Indian in the Cupboard, #1)",Lynne Reid Banks,1980,4.9,"This book was LOVED IT.  [skip this part]  'The Indian in the Cupboard (The Indian in the Cupboard, #1)' by Lynne Reid Banks ### @friend",2025-03-15
+283,The Adventures of Tom Sawyer,Mark Twain,1876,3.9,This book was AMAZING.  [Review]  'The Adventures of Tom Sawyer' by Mark Twain ... 💯,2023-07-16
+284,"The Mouse and the Motorcycle (Ralph S. Mouse, #1)",Beverly Cleary,1965,4.0,"This book was SO BAD.  [Review]  'The Mouse and the Motorcycle (Ralph S. Mouse, #1)' by Beverly Cleary ### #reading",2024-07-10
+285,"Olivia (Olivia, #1)",Ian Falconer,2000,5.0,"This book was LOVED IT.  [spoiler]  'Olivia (Olivia, #1)' by Ian Falconer !!! http://buybook.com",2023-01-10
+286,"Sideways Stories from Wayside School (Wayside School, #1)",Louis Sachar,1978,4.2,"This book was LOVED IT.  [Review]  'Sideways Stories from Wayside School (Wayside School, #1)' by Louis Sachar ... #reading",2023-06-20
+287,"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,1932,3.4,"This book was MAGICAL.  [skip this part]  'The Little House Collection (Little House, #1-9)' by Laura Ingalls Wilder ??? #reading",2025-07-28
+288,The Neverending Story,Michael Ende,1979,4.2,This book was AMAZING.  [skip this part]  'The Neverending Story' by Michael Ende ... 💯,2025-03-03
+289,"Ramona the Pest (Ramona, #2)",Beverly Cleary,1968,4.1,"This book was SO BAD.  [note]  'Ramona the Pest (Ramona, #2)' by Beverly Cleary @@@ @friend",2024-10-13
+290,Hop On Pop,Dr. Seuss,1963,4.0,This book was AMAZING.  [skip this part]  'Hop On Pop' by Dr. Seuss !!! 💯,2023-10-11
+291,The Little House,Virginia Lee Burton,1942,4.3,This book was BORING.  [note]  'The Little House' by Virginia Lee Burton ??? ✨,2024-03-03
+292,Harry the Dirty Dog,Gene Zion,1956,3.2,This book was BORING.  [skip this part]  'Harry the Dirty Dog' by Gene Zion ??? ✨,2024-04-04
+293,The Runaway Bunny,Margaret Wise Brown,1942,4.1,This book was SO BAD.  [skip this part]  'The Runaway Bunny' by Margaret Wise Brown @@@ http://buybook.com,2023-03-23
+294,Horton Hatches the Egg,Dr. Seuss,1940,3.2,This book was AMAZING.  [skip this part]  'Horton Hatches the Egg' by Dr. Seuss ... @friend,2024-03-15
+295,"Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)",Deborah Howe,1979,2.9,"This book was LOVED IT.  [Review]  'Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)' by Deborah Howe ... @friend",2024-06-03
+296,Stone Soup,Jon J. Muth,2003,4.2,This book was BORING.  [spoiler]  'Stone Soup' by Jon J. Muth ### #reading,2025-01-03
+297,A Light in the Attic,Shel Silverstein,1981,4.4,This book was BORING.  [Review]  'A Light in the Attic' by Shel Silverstein @@@ 💯,2024-08-15
+298,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,1999,4.6,"This book was LOVED IT.  [skip this part]  'Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)' by J.K. Rowling ... http://buybook.com",2025-04-03
+299,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,1998,4.4,"This book was LOVED IT.  [Review]  'Harry Potter and the Chamber of Secrets (Harry Potter, #2)' by J.K. Rowling @@@ #reading",2025-04-25
+300,The Three Billy Goats Gruff,Paul Galdone,1973,5.0,This book was BORING.  [note]  'The Three Billy Goats Gruff' by Paul Galdone !!! http://buybook.com,2024-10-06
+301,Where the Wild Things Are,Maurice Sendak,1963,4.2,This book was LOVED IT.  [Review]  'Where the Wild Things Are' by Maurice Sendak @@@ ✨,2023-11-22
+302,The Very Hungry Caterpillar,Eric Carle,1969,4.3,This book was MAGICAL.  [note]  'The Very Hungry Caterpillar' by Eric Carle !!! @friend,2024-08-24
+303,The Giving Tree,Shel Silverstein,1964,3.4,This book was AMAZING.  [skip this part]  'The Giving Tree' by Shel Silverstein @@@ 💯,2023-05-20
+304,Green Eggs and Ham,Dr. Seuss,1960,5.0,This book was BORING.  [Review]  'Green Eggs and Ham' by Dr. Seuss ... 💯,2025-06-05
+305,Goodnight Moon,Margaret Wise Brown,1947,4.3,This book was AMAZING.  [note]  'Goodnight Moon' by Margaret Wise Brown ??? #reading,2023-07-12
+306,Charlotte’s Web,E.B. White,1952,3.2,This book was SO BAD.  [Review]  'Charlotte’s Web' by E.B. White !!! 💯,2023-04-15
+307,"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,1957,4.2,"This book was MAGICAL.  [note]  'The Cat in the Hat (Cat in the Hat, #1)' by Dr. Seuss ### #reading",2023-05-03
+308,Where the Sidewalk Ends,Shel Silverstein,1974,5.0,This book was LOVED IT.  [spoiler]  'Where the Sidewalk Ends' by Shel Silverstein ### ✨,2024-05-15
+309,If You Give a Mouse a Cookie,Laura Joffe Numeroff,1985,5.0,This book was MAGICAL.  [spoiler]  'If You Give a Mouse a Cookie' by Laura Joffe Numeroff ### #reading,2024-05-10
+310,Love You Forever,Robert Munsch,1986,4.4,This book was LOVED IT.  [note]  'Love You Forever' by Robert Munsch ??? ✨,2024-05-25
+311,Corduroy,Don Freeman,1968,4.3,This book was MAGICAL.  [spoiler]  'Corduroy' by Don Freeman ??? #reading,2025-04-02
+312,The Lorax,Dr. Seuss,1971,5.0,This book was LOVED IT.  [spoiler]  'The Lorax' by Dr. Seuss ### #reading,2024-12-06
+313,Madeline,Ludwig Bemelmans,1939,3.3,This book was LOVED IT.  [note]  'Madeline' by Ludwig Bemelmans ??? http://buybook.com,2023-09-26
+314,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,1997,3.5,"This book was SO BAD.  [skip this part]  'Harry Potter and the Sorcerer's Stone (Harry Potter, #1)' by J.K. Rowling ### ✨",2023-01-16
+315,The Velveteen Rabbit,Margery Williams Bianco,1922,4.3,This book was SO BAD.  [Review]  'The Velveteen Rabbit' by Margery Williams Bianco ### @friend,2025-01-09
+316,How the Grinch Stole Christmas!,Dr. Seuss,1957,3.4,This book was SO BAD.  [note]  'How the Grinch Stole Christmas!' by Dr. Seuss ... @friend,2025-03-01
+317,Curious George,H.A. Rey,1941,3.2,This book was LOVED IT.  [Review]  'Curious George' by H.A. Rey @@@ http://buybook.com,2023-03-30
+318,The Monster at the End of this Book,Jon Stone,1971,4.5,This book was BORING.  [spoiler]  'The Monster at the End of this Book' by Jon Stone ??? #reading,2024-08-24
+319,Chicka Chicka Boom Boom,Bill Martin Jr. and John Archambault,1989,5.0,This book was LOVED IT.  [note]  'Chicka Chicka Boom Boom' by Bill Martin Jr. and John Archambault ### @friend,2023-08-22
+320,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1960,3.2,"This book was BORING.  [skip this part]  'One Fish, Two Fish, Red Fish, Blue Fish' by Dr. Seuss ??? @friend",2025-04-30
+321,The Little Prince,Antoine de Saint-Exupéry,1943,3.3,This book was BORING.  [note]  'The Little Prince' by Antoine de Saint-Exupéry ### #reading,2023-12-05
+322,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr. and Eric Carle,1966,4.3,"This book was MAGICAL.  [spoiler]  'Brown Bear, Brown Bear, What Do You See?' by Bill Martin Jr. and Eric Carle ... @friend",2025-03-09
+323,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,1972,4.2,"This book was SO BAD.  [note]  'Alexander and the Terrible, Horrible, No Good, Very Bad Day' by Judith Viorst ### @friend",2025-08-05
+324,Matilda,Roald Dahl,1988,4.3,This book was MAGICAL.  [spoiler]  'Matilda' by Roald Dahl !!! http://buybook.com,2024-03-13
+325,"Harold and the Purple Crayon (Harold, #1)",Crockett Johnson,1955,4.3,"This book was SO BAD.  [note]  'Harold and the Purple Crayon (Harold, #1)' by Crockett Johnson @@@ @friend",2023-12-24
+326,"The Tale of Peter Rabbit (World of Beatrix Potter, #1)",Beatrix Potter,1902,3.2,"This book was SO BAD.  [skip this part]  'The Tale of Peter Rabbit (World of Beatrix Potter, #1)' by Beatrix Potter ??? @friend",2024-06-09
+327,Are You My Mother?,P.D. Eastman,1960,3.2,This book was AMAZING.  [skip this part]  'Are You My Mother?' by P.D. Eastman ... 💯,2024-09-12
+328,"Frog and Toad Are Friends (Frog and Toad, #1)",Arnold Lobel,1970,5.0,"This book was AMAZING.  [skip this part]  'Frog and Toad Are Friends (Frog and Toad, #1)' by Arnold Lobel ### ✨",2023-10-09
+329,"Oh, the Places You’ll Go!",Dr. Seuss,1990,4.4,"This book was BORING.  [Review]  'Oh, the Places You’ll Go!' by Dr. Seuss ??? 💯",2025-01-04
+330,"Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)",Judi Barrett,1978,3.2,"This book was MAGICAL.  [skip this part]  'Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)' by Judi Barrett !!! ✨",2023-02-05
+331,"The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)",A.A. Milne,1926,4.4,"This book was SO BAD.  [note]  'The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)' by A.A. Milne !!! 💯",2024-06-14
+332,The Secret Garden,Frances Hodgson Burnett,1911,4.2,This book was BORING.  [Review]  'The Secret Garden' by Frances Hodgson Burnett @@@ http://buybook.com,2023-05-19
+333,Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,1865,3.1,This book was LOVED IT.  [Review]  'Alice’s Adventures in Wonderland / Through the Looking-Glass' by Lewis Carroll ... 💯,2024-04-14
+334,Guess How Much I Love You,Sam McBratney,1994,3.4,This book was LOVED IT.  [skip this part]  'Guess How Much I Love You' by Sam McBratney ### #reading,2024-10-21
+335,Horton Hears a Who!,Dr. Seuss,1954,5.0,This book was MAGICAL.  [note]  'Horton Hears a Who!' by Dr. Seuss ... ✨,2024-08-15
+336,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,1950,5.0,"This book was BORING.  [skip this part]  'The Chronicles of Narnia (The Chronicles of Narnia, #1-7)' by C.S. Lewis ??? http://buybook.com",2024-02-23
+337,"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,1945,4.2,"This book was SO BAD.  [skip this part]  'Pippi Longstocking (Pippi Långstrump, #1)' by Astrid Lindgren ??? ✨",2023-01-31
+338,The True Story of the 3 Little Pigs,Jon Scieszka,1989,3.3,This book was SO BAD.  [Review]  'The True Story of the 3 Little Pigs' by Jon Scieszka ... ✨,2023-07-17
+339,The Little Engine That Could,Watty Piper,1930,3.2,This book was BORING.  [Review]  'The Little Engine That Could' by Watty Piper !!! ✨,2023-11-08
+340,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,1908,3.3,"This book was BORING.  [spoiler]  'Anne of Green Gables (Anne of Green Gables, #1)' by L.M. Montgomery ??? @friend",2024-05-06
+341,"Amelia Bedelia (Amelia Bedelia, #1)",Peggy Parish,1963,5.0,"This book was BORING.  [spoiler]  'Amelia Bedelia (Amelia Bedelia, #1)' by Peggy Parish !!! http://buybook.com",2023-07-18
+342,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,1964,5.0,"This book was SO BAD.  [note]  'Charlie and the Chocolate Factory (Charlie Bucket, #1)' by Roald Dahl !!! @friend",2024-03-09
+343,"The Hobbit, or There and Back Again (The Lord of the Rings, #0)",J.R.R. Tolkien,1937,4.3,"This book was AMAZING.  [skip this part]  'The Hobbit, or There and Back Again (The Lord of the Rings, #0)' by J.R.R. Tolkien ??? http://buybook.com",2024-01-06
+344,The BFG,Roald Dahl,1982,4.2,This book was MAGICAL.  [skip this part]  'The BFG' by Roald Dahl ??? 💯,2024-11-20
+345,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,1992,3.2,This book was AMAZING.  [skip this part]  'The Stinky Cheese Man and Other Fairly Stupid Tales' by Jon Scieszka ... ✨,2023-05-28
+346,Stellaluna,Janell Cannon,1993,3.3,This book was AMAZING.  [Review]  'Stellaluna' by Janell Cannon !!! #reading,2025-03-18
+347,The Poky Little Puppy,Janette Sebring Lowrey,1942,4.1,This book was MAGICAL.  [skip this part]  'The Poky Little Puppy' by Janette Sebring Lowrey ... @friend,2024-05-10
+348,Make Way for Ducklings,Robert McCloskey,1941,4.2,This book was MAGICAL.  [note]  'Make Way for Ducklings' by Robert McCloskey ??? 💯,2023-06-05
+349,James and the Giant Peach,Roald Dahl,1961,3.0,This book was MAGICAL.  [spoiler]  'James and the Giant Peach' by Roald Dahl @@@ 💯,2025-07-05
+350,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,1962,4.0,"This book was MAGICAL.  [Review]  'A Wrinkle in Time (Time Quintet, #1)' by Madeleine L'Engle @@@ #reading",2023-09-20
+351,Don't Let the Pigeon Drive the Bus!,Mo Willems,2003,3.3,This book was LOVED IT.  [Review]  'Don't Let the Pigeon Drive the Bus!' by Mo Willems !!! @friend,2024-06-12
+352,The Polar Express,Chris Van Allsburg,1985,3.3,This book was LOVED IT.  [Review]  'The Polar Express' by Chris Van Allsburg ### ✨,2024-06-10
+353,The Phantom Tollbooth,Norton Juster,1961,4.2,This book was BORING.  [Review]  'The Phantom Tollbooth' by Norton Juster @@@ http://buybook.com,2025-02-25
+354,"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,1932,4.2,"This book was BORING.  [Review]  'Little House in the Big Woods (Little House, #1)' by Laura Ingalls Wilder ... @friend",2023-10-31
+355,"Go, Dog. Go!",P.D. Eastman,1961,4.2,"This book was BORING.  [spoiler]  'Go, Dog. Go!' by P.D. Eastman ### #reading",2023-05-06
+356,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,1900,5.0,"This book was SO BAD.  [spoiler]  'The Wonderful Wizard of Oz (Oz, #1)' by L. Frank Baum ... @friend",2024-03-16
+357,The Rainbow Fish,Marcus Pfister,1992,3.2,This book was LOVED IT.  [Review]  'The Rainbow Fish' by Marcus Pfister ... #reading,2024-05-29
+358,"The Giver (The Giver, #1)",Lois Lowry,1993,5.0,"This book was BORING.  [skip this part]  'The Giver (The Giver, #1)' by Lois Lowry ### #reading",2025-03-22
+359,The Story of Ferdinand,Munro Leaf,1936,4.4,This book was BORING.  [note]  'The Story of Ferdinand' by Munro Leaf ??? ✨,2024-12-19
+360,The Night Before Christmas,Clement Clarke Moore,1823,5.0,This book was AMAZING.  [spoiler]  'The Night Before Christmas' by Clement Clarke Moore ### #reading,2023-07-08
+361,Bridge to Terabithia,Katherine Paterson,1977,4.0,This book was SO BAD.  [note]  'Bridge to Terabithia' by Katherine Paterson ??? @friend,2024-09-16
+362,Blueberries for Sal,Robert McCloskey,1948,3.2,This book was MAGICAL.  [skip this part]  'Blueberries for Sal' by Robert McCloskey ... ✨,2023-11-22
+363,"Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",Esphyr Slobodkina,1940,4.2,"This book was LOVED IT.  [skip this part]  'Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business' by Esphyr Slobodkina @@@ http://buybook.com",2024-03-22
+364,The Witches,Roald Dahl,1983,3.2,This book was AMAZING.  [skip this part]  'The Witches' by Roald Dahl ### ✨,2024-04-05
+365,Clifford the Big Red Dog,Norman Bridwell,1963,4.2,This book was BORING.  [note]  'Clifford the Big Red Dog' by Norman Bridwell ??? @friend,2024-04-16
+366,Fox in Socks,Dr. Seuss,1965,5.0,This book was AMAZING.  [note]  'Fox in Socks' by Dr. Seuss ... http://buybook.com,2023-05-19
+367,"Little Bear (Little Bear, #1)",Else Holmelund Minarik,1957,4.2,"This book was SO BAD.  [skip this part]  'Little Bear (Little Bear, #1)' by Else Holmelund Minarik !!! http://buybook.com",2025-02-12
+368,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,1950,4.2,"This book was LOVED IT.  [note]  'The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)' by C.S. Lewis @@@ http://buybook.com",2023-09-02
+369,The Paper Bag Princess,Robert Munsch,1980,3.3,This book was LOVED IT.  [skip this part]  'The Paper Bag Princess' by Robert Munsch @@@ @friend,2024-03-31
+370,"The Snowy Day (Peter, #1)",Ezra Jack Keats,1962,4.2,"This book was SO BAD.  [Review]  'The Snowy Day (Peter, #1)' by Ezra Jack Keats @@@ 💯",2024-02-17
+371,Tikki Tikki Tembo,Arlene Mosel,1968,4.2,This book was BORING.  [spoiler]  'Tikki Tikki Tembo' by Arlene Mosel ### ✨,2024-11-12
+372,A Bad Case of Stripes (Scholastic Bookshelf),David Shannon,1998,3.3,This book was BORING.  [note]  'A Bad Case of Stripes (Scholastic Bookshelf)' by David Shannon ... #reading,2025-01-13
+373,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,1926,5.0,"This book was MAGICAL.  [note]  'Winnie-the-Pooh (Winnie-the-Pooh, #1)' by A.A. Milne ... 💯",2023-08-23
+374,Chrysanthemum,Kevin Henkes,1991,4.3,This book was BORING.  [spoiler]  'Chrysanthemum' by Kevin Henkes ??? ✨,2024-01-09
+375,"Miss Nelson Is Missing! (Miss Nelson, #1)",Harry Allard,1977,5.0,"This book was BORING.  [spoiler]  'Miss Nelson Is Missing! (Miss Nelson, #1)' by Harry Allard ... http://buybook.com",2024-06-02
+376,Falling Up,Shel Silverstein,1996,3.4,This book was MAGICAL.  [Review]  'Falling Up' by Shel Silverstein @@@ ✨,2025-04-30
+377,"Click, Clack, Moo: Cows That Type",Doreen Cronin,2000,4.3,"This book was AMAZING.  [note]  'Click, Clack, Moo: Cows That Type' by Doreen Cronin @@@ #reading",2024-01-22
+378,The Tale of Despereaux,Kate DiCamillo,2003,4.1,This book was MAGICAL.  [skip this part]  'The Tale of Despereaux' by Kate DiCamillo ### http://buybook.com,2023-07-11
+379,The Sneetches and Other Stories,Dr. Seuss,1961,4.3,This book was BORING.  [note]  'The Sneetches and Other Stories' by Dr. Seuss ### ✨,2023-03-31
+380,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,1967,4.2,This book was BORING.  [skip this part]  'From the Mixed-Up Files of Mrs. Basil E. Frankweiler' by E.L. Konigsburg !!! http://buybook.com,2024-12-22
+381,"The Story of Babar (Babar, #1)",Jean de Brunhoff,1931,3.1,"This book was AMAZING.  [skip this part]  'The Story of Babar (Babar, #1)' by Jean de Brunhoff @@@ @friend",2025-02-14
+382,"The Indian in the Cupboard (The Indian in the Cupboard, #1)",Lynne Reid Banks,1980,3.9,"This book was LOVED IT.  [skip this part]  'The Indian in the Cupboard (The Indian in the Cupboard, #1)' by Lynne Reid Banks ... ✨",2024-11-27
+383,The Adventures of Tom Sawyer,Mark Twain,1876,4.9,This book was AMAZING.  [Review]  'The Adventures of Tom Sawyer' by Mark Twain @@@ #reading,2024-05-28
+384,"The Mouse and the Motorcycle (Ralph S. Mouse, #1)",Beverly Cleary,1965,4.0,"This book was MAGICAL.  [spoiler]  'The Mouse and the Motorcycle (Ralph S. Mouse, #1)' by Beverly Cleary !!! @friend",2023-02-26
+385,"Olivia (Olivia, #1)",Ian Falconer,2000,4.2,"This book was AMAZING.  [Review]  'Olivia (Olivia, #1)' by Ian Falconer ??? ✨",2023-08-24
+386,"Sideways Stories from Wayside School (Wayside School, #1)",Louis Sachar,1978,3.2,"This book was LOVED IT.  [Review]  'Sideways Stories from Wayside School (Wayside School, #1)' by Louis Sachar ### @friend",2023-02-16
+387,"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,1932,4.4,"This book was SO BAD.  [spoiler]  'The Little House Collection (Little House, #1-9)' by Laura Ingalls Wilder ... 💯",2025-03-10
+388,The Neverending Story,Michael Ende,1979,5.0,This book was LOVED IT.  [note]  'The Neverending Story' by Michael Ende ??? http://buybook.com,2025-06-20
+389,"Ramona the Pest (Ramona, #2)",Beverly Cleary,1968,3.1,"This book was SO BAD.  [Review]  'Ramona the Pest (Ramona, #2)' by Beverly Cleary ??? 💯",2023-01-04
+390,Hop On Pop,Dr. Seuss,1963,3.0,This book was AMAZING.  [spoiler]  'Hop On Pop' by Dr. Seuss ??? #reading,2025-03-10
+391,The Little House,Virginia Lee Burton,1942,4.3,This book was MAGICAL.  [skip this part]  'The Little House' by Virginia Lee Burton ... http://buybook.com,2023-05-27
+392,Harry the Dirty Dog,Gene Zion,1956,4.2,This book was SO BAD.  [Review]  'Harry the Dirty Dog' by Gene Zion ... 💯,2024-12-15
+393,The Runaway Bunny,Margaret Wise Brown,1942,5.0,This book was LOVED IT.  [note]  'The Runaway Bunny' by Margaret Wise Brown ### http://buybook.com,2023-05-27
+394,Horton Hatches the Egg,Dr. Seuss,1940,4.2,This book was BORING.  [note]  'Horton Hatches the Egg' by Dr. Seuss @@@ 💯,2024-03-22
+395,"Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)",Deborah Howe,1979,3.9,"This book was LOVED IT.  [Review]  'Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)' by Deborah Howe @@@ ✨",2023-01-18
+396,Stone Soup,Jon J. Muth,2003,3.2,This book was AMAZING.  [note]  'Stone Soup' by Jon J. Muth ... 💯,2023-07-18
+397,A Light in the Attic,Shel Silverstein,1981,4.4,This book was SO BAD.  [spoiler]  'A Light in the Attic' by Shel Silverstein @@@ 💯,2024-07-14
+398,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,1999,3.6,"This book was MAGICAL.  [note]  'Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)' by J.K. Rowling !!! 💯",2023-08-31
+399,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,1998,5.0,"This book was LOVED IT.  [spoiler]  'Harry Potter and the Chamber of Secrets (Harry Potter, #2)' by J.K. Rowling ### @friend",2024-03-30
+400,The Three Billy Goats Gruff,Paul Galdone,1973,3.2,This book was LOVED IT.  [note]  'The Three Billy Goats Gruff' by Paul Galdone ### @friend,2023-01-12
+401,Where the Wild Things Are,Maurice Sendak,1963,4.2,This book was SO BAD.  [Review]  'Where the Wild Things Are' by Maurice Sendak ### http://buybook.com,2025-04-26
+402,The Very Hungry Caterpillar,Eric Carle,1969,3.3,This book was MAGICAL.  [spoiler]  'The Very Hungry Caterpillar' by Eric Carle ... http://buybook.com,2023-12-29
+403,The Giving Tree,Shel Silverstein,1964,5.0,This book was AMAZING.  [note]  'The Giving Tree' by Shel Silverstein ??? @friend,2023-08-09
+404,Green Eggs and Ham,Dr. Seuss,1960,4.3,This book was AMAZING.  [note]  'Green Eggs and Ham' by Dr. Seuss ### http://buybook.com,2024-03-03
+405,Goodnight Moon,Margaret Wise Brown,1947,4.3,This book was SO BAD.  [note]  'Goodnight Moon' by Margaret Wise Brown !!! #reading,2023-10-17
+406,Charlotte’s Web,E.B. White,1952,4.2,This book was MAGICAL.  [skip this part]  'Charlotte’s Web' by E.B. White @@@ @friend,2023-03-27
+407,"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,1957,4.2,"This book was AMAZING.  [skip this part]  'The Cat in the Hat (Cat in the Hat, #1)' by Dr. Seuss @@@ ✨",2025-01-06
+408,Where the Sidewalk Ends,Shel Silverstein,1974,5.0,This book was AMAZING.  [Review]  'Where the Sidewalk Ends' by Shel Silverstein @@@ #reading,2023-09-17
+409,If You Give a Mouse a Cookie,Laura Joffe Numeroff,1985,3.3,This book was MAGICAL.  [note]  'If You Give a Mouse a Cookie' by Laura Joffe Numeroff @@@ http://buybook.com,2023-05-18
+410,Love You Forever,Robert Munsch,1986,5.0,This book was LOVED IT.  [skip this part]  'Love You Forever' by Robert Munsch !!! http://buybook.com,2023-04-21
+411,Corduroy,Don Freeman,1968,5.0,This book was MAGICAL.  [skip this part]  'Corduroy' by Don Freeman ### ✨,2025-01-19
+412,The Lorax,Dr. Seuss,1971,3.3,This book was MAGICAL.  [note]  'The Lorax' by Dr. Seuss !!! #reading,2023-10-04
+413,Madeline,Ludwig Bemelmans,1939,4.3,This book was BORING.  [skip this part]  'Madeline' by Ludwig Bemelmans ??? 💯,2023-01-19
+414,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,1997,4.5,"This book was MAGICAL.  [Review]  'Harry Potter and the Sorcerer's Stone (Harry Potter, #1)' by J.K. Rowling ??? #reading",2023-05-09
+415,The Velveteen Rabbit,Margery Williams Bianco,1922,4.3,This book was SO BAD.  [Review]  'The Velveteen Rabbit' by Margery Williams Bianco ??? #reading,2025-07-21
+416,How the Grinch Stole Christmas!,Dr. Seuss,1957,5.0,This book was AMAZING.  [note]  'How the Grinch Stole Christmas!' by Dr. Seuss ... ✨,2023-03-28
+417,Curious George,H.A. Rey,1941,5.0,This book was SO BAD.  [spoiler]  'Curious George' by H.A. Rey ??? ✨,2023-06-02
+418,The Monster at the End of this Book,Jon Stone,1971,3.5,This book was SO BAD.  [skip this part]  'The Monster at the End of this Book' by Jon Stone ??? #reading,2023-02-06
+419,Chicka Chicka Boom Boom,Bill Martin Jr. and John Archambault,1989,3.3,This book was LOVED IT.  [note]  'Chicka Chicka Boom Boom' by Bill Martin Jr. and John Archambault @@@ 💯,2023-02-19
+420,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1960,3.2,"This book was AMAZING.  [skip this part]  'One Fish, Two Fish, Red Fish, Blue Fish' by Dr. Seuss ... ✨",2023-06-16
+421,The Little Prince,Antoine de Saint-Exupéry,1943,3.3,This book was MAGICAL.  [spoiler]  'The Little Prince' by Antoine de Saint-Exupéry ??? @friend,2025-07-25
+422,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr. and Eric Carle,1966,3.3,"This book was LOVED IT.  [skip this part]  'Brown Bear, Brown Bear, What Do You See?' by Bill Martin Jr. and Eric Carle ### ✨",2023-10-21
+423,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,1972,3.2,"This book was BORING.  [spoiler]  'Alexander and the Terrible, Horrible, No Good, Very Bad Day' by Judith Viorst ??? http://buybook.com",2025-06-09
+424,Matilda,Roald Dahl,1988,4.3,This book was LOVED IT.  [note]  'Matilda' by Roald Dahl @@@ http://buybook.com,2024-09-17
+425,"Harold and the Purple Crayon (Harold, #1)",Crockett Johnson,1955,4.3,"This book was SO BAD.  [note]  'Harold and the Purple Crayon (Harold, #1)' by Crockett Johnson ... 💯",2023-12-27
+426,"The Tale of Peter Rabbit (World of Beatrix Potter, #1)",Beatrix Potter,1902,4.2,"This book was BORING.  [spoiler]  'The Tale of Peter Rabbit (World of Beatrix Potter, #1)' by Beatrix Potter ... http://buybook.com",2023-09-04
+427,Are You My Mother?,P.D. Eastman,1960,4.2,This book was SO BAD.  [skip this part]  'Are You My Mother?' by P.D. Eastman ... @friend,2023-12-09
+428,"Frog and Toad Are Friends (Frog and Toad, #1)",Arnold Lobel,1970,5.0,"This book was AMAZING.  [note]  'Frog and Toad Are Friends (Frog and Toad, #1)' by Arnold Lobel ??? @friend",2023-03-27
+429,"Oh, the Places You’ll Go!",Dr. Seuss,1990,4.4,"This book was BORING.  [Review]  'Oh, the Places You’ll Go!' by Dr. Seuss @@@ ✨",2023-03-29
+430,"Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)",Judi Barrett,1978,3.2,"This book was SO BAD.  [skip this part]  'Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)' by Judi Barrett @@@ http://buybook.com",2024-07-29
+431,"The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)",A.A. Milne,1926,5.0,"This book was LOVED IT.  [skip this part]  'The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)' by A.A. Milne @@@ @friend",2024-09-22
+432,The Secret Garden,Frances Hodgson Burnett,1911,3.2,This book was SO BAD.  [Review]  'The Secret Garden' by Frances Hodgson Burnett !!! http://buybook.com,2023-12-21
+433,Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,1865,3.1,This book was LOVED IT.  [skip this part]  'Alice’s Adventures in Wonderland / Through the Looking-Glass' by Lewis Carroll ??? 💯,2025-03-19
+434,Guess How Much I Love You,Sam McBratney,1994,3.4,This book was MAGICAL.  [Review]  'Guess How Much I Love You' by Sam McBratney ### @friend,2023-03-31
+435,Horton Hears a Who!,Dr. Seuss,1954,4.2,This book was BORING.  [note]  'Horton Hears a Who!' by Dr. Seuss ??? #reading,2025-04-08
+436,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,1950,4.3,"This book was BORING.  [Review]  'The Chronicles of Narnia (The Chronicles of Narnia, #1-7)' by C.S. Lewis ??? #reading",2024-09-26
+437,"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,1945,4.2,"This book was SO BAD.  [spoiler]  'Pippi Longstocking (Pippi Långstrump, #1)' by Astrid Lindgren ??? ✨",2024-07-13
+438,The True Story of the 3 Little Pigs,Jon Scieszka,1989,4.3,This book was BORING.  [Review]  'The True Story of the 3 Little Pigs' by Jon Scieszka ... 💯,2023-11-10
+439,The Little Engine That Could,Watty Piper,1930,5.0,This book was BORING.  [spoiler]  'The Little Engine That Could' by Watty Piper @@@ #reading,2023-06-22
+440,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,1908,4.3,"This book was SO BAD.  [skip this part]  'Anne of Green Gables (Anne of Green Gables, #1)' by L.M. Montgomery ### ✨",2025-07-01
+441,"Amelia Bedelia (Amelia Bedelia, #1)",Peggy Parish,1963,4.2,"This book was SO BAD.  [Review]  'Amelia Bedelia (Amelia Bedelia, #1)' by Peggy Parish !!! @friend",2024-01-22
+442,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,1964,4.2,"This book was AMAZING.  [skip this part]  'Charlie and the Chocolate Factory (Charlie Bucket, #1)' by Roald Dahl @@@ 💯",2024-07-30
+443,"The Hobbit, or There and Back Again (The Lord of the Rings, #0)",J.R.R. Tolkien,1937,4.3,"This book was LOVED IT.  [skip this part]  'The Hobbit, or There and Back Again (The Lord of the Rings, #0)' by J.R.R. Tolkien ??? @friend",2024-06-22
+444,The BFG,Roald Dahl,1982,4.2,This book was MAGICAL.  [note]  'The BFG' by Roald Dahl ### #reading,2024-02-26
+445,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,1992,4.2,This book was LOVED IT.  [Review]  'The Stinky Cheese Man and Other Fairly Stupid Tales' by Jon Scieszka ... http://buybook.com,2024-11-03
+446,Stellaluna,Janell Cannon,1993,5.0,This book was SO BAD.  [note]  'Stellaluna' by Janell Cannon ... @friend,2024-12-07
+447,The Poky Little Puppy,Janette Sebring Lowrey,1942,5.0,This book was LOVED IT.  [Review]  'The Poky Little Puppy' by Janette Sebring Lowrey @@@ http://buybook.com,2023-09-22
+448,Make Way for Ducklings,Robert McCloskey,1941,4.2,This book was SO BAD.  [skip this part]  'Make Way for Ducklings' by Robert McCloskey @@@ http://buybook.com,2024-08-17
+449,James and the Giant Peach,Roald Dahl,1961,5.0,This book was BORING.  [spoiler]  'James and the Giant Peach' by Roald Dahl ??? http://buybook.com,2023-04-01
+450,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,1962,4.0,"This book was SO BAD.  [note]  'A Wrinkle in Time (Time Quintet, #1)' by Madeleine L'Engle ### #reading",2025-02-25
+451,Don't Let the Pigeon Drive the Bus!,Mo Willems,2003,4.3,This book was BORING.  [spoiler]  'Don't Let the Pigeon Drive the Bus!' by Mo Willems !!! @friend,2025-03-22
+452,The Polar Express,Chris Van Allsburg,1985,4.3,This book was LOVED IT.  [spoiler]  'The Polar Express' by Chris Van Allsburg ### 💯,2023-07-25
+453,The Phantom Tollbooth,Norton Juster,1961,5.0,This book was MAGICAL.  [Review]  'The Phantom Tollbooth' by Norton Juster !!! http://buybook.com,2025-06-01
+454,"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,1932,4.2,"This book was SO BAD.  [skip this part]  'Little House in the Big Woods (Little House, #1)' by Laura Ingalls Wilder @@@ 💯",2025-03-21
+455,"Go, Dog. Go!",P.D. Eastman,1961,3.2,"This book was LOVED IT.  [spoiler]  'Go, Dog. Go!' by P.D. Eastman ??? http://buybook.com",2023-03-03
+456,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,1900,3.0,"This book was SO BAD.  [Review]  'The Wonderful Wizard of Oz (Oz, #1)' by L. Frank Baum @@@ http://buybook.com",2023-01-06
+457,The Rainbow Fish,Marcus Pfister,1992,4.2,This book was MAGICAL.  [skip this part]  'The Rainbow Fish' by Marcus Pfister ... 💯,2023-07-11
+458,"The Giver (The Giver, #1)",Lois Lowry,1993,3.1,"This book was MAGICAL.  [Review]  'The Giver (The Giver, #1)' by Lois Lowry !!! 💯",2023-04-11
+459,The Story of Ferdinand,Munro Leaf,1936,4.4,This book was MAGICAL.  [Review]  'The Story of Ferdinand' by Munro Leaf !!! http://buybook.com,2023-11-29
+460,The Night Before Christmas,Clement Clarke Moore,1823,5.0,This book was AMAZING.  [spoiler]  'The Night Before Christmas' by Clement Clarke Moore ... #reading,2025-08-10
+461,Bridge to Terabithia,Katherine Paterson,1977,4.0,This book was SO BAD.  [skip this part]  'Bridge to Terabithia' by Katherine Paterson ... @friend,2024-01-08
+462,Blueberries for Sal,Robert McCloskey,1948,4.2,This book was AMAZING.  [spoiler]  'Blueberries for Sal' by Robert McCloskey ### http://buybook.com,2023-04-06
+463,"Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",Esphyr Slobodkina,1940,4.2,"This book was LOVED IT.  [spoiler]  'Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business' by Esphyr Slobodkina ... http://buybook.com",2024-06-10
+464,The Witches,Roald Dahl,1983,4.2,This book was SO BAD.  [spoiler]  'The Witches' by Roald Dahl ??? http://buybook.com,2023-10-05
+465,Clifford the Big Red Dog,Norman Bridwell,1963,4.2,This book was BORING.  [Review]  'Clifford the Big Red Dog' by Norman Bridwell !!! http://buybook.com,2025-04-30
+466,Fox in Socks,Dr. Seuss,1965,5.0,This book was BORING.  [skip this part]  'Fox in Socks' by Dr. Seuss ??? ✨,2023-03-19
+467,"Little Bear (Little Bear, #1)",Else Holmelund Minarik,1957,4.2,"This book was SO BAD.  [note]  'Little Bear (Little Bear, #1)' by Else Holmelund Minarik ### #reading",2024-02-23
+468,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,1950,4.2,"This book was MAGICAL.  [skip this part]  'The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)' by C.S. Lewis ... #reading",2025-03-05
+469,The Paper Bag Princess,Robert Munsch,1980,5.0,This book was LOVED IT.  [skip this part]  'The Paper Bag Princess' by Robert Munsch @@@ 💯,2025-08-06
+470,"The Snowy Day (Peter, #1)",Ezra Jack Keats,1962,4.2,"This book was LOVED IT.  [skip this part]  'The Snowy Day (Peter, #1)' by Ezra Jack Keats @@@ ✨",2023-11-08
+471,Tikki Tikki Tembo,Arlene Mosel,1968,4.2,This book was SO BAD.  [note]  'Tikki Tikki Tembo' by Arlene Mosel !!! ✨,2025-07-31
+472,A Bad Case of Stripes (Scholastic Bookshelf),David Shannon,1998,5.0,This book was SO BAD.  [Review]  'A Bad Case of Stripes (Scholastic Bookshelf)' by David Shannon !!! #reading,2023-02-24
+473,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,1926,3.4,"This book was AMAZING.  [note]  'Winnie-the-Pooh (Winnie-the-Pooh, #1)' by A.A. Milne ??? @friend",2025-05-06
+474,Chrysanthemum,Kevin Henkes,1991,4.3,This book was LOVED IT.  [skip this part]  'Chrysanthemum' by Kevin Henkes ### #reading,2024-01-19
+475,"Miss Nelson Is Missing! (Miss Nelson, #1)",Harry Allard,1977,4.3,"This book was LOVED IT.  [spoiler]  'Miss Nelson Is Missing! (Miss Nelson, #1)' by Harry Allard ### #reading",2024-05-27
+476,Falling Up,Shel Silverstein,1996,5.0,This book was MAGICAL.  [note]  'Falling Up' by Shel Silverstein ??? 💯,2023-10-22
+477,"Click, Clack, Moo: Cows That Type",Doreen Cronin,2000,4.3,"This book was BORING.  [Review]  'Click, Clack, Moo: Cows That Type' by Doreen Cronin !!! #reading",2024-04-07
+478,The Tale of Despereaux,Kate DiCamillo,2003,3.1,This book was SO BAD.  [skip this part]  'The Tale of Despereaux' by Kate DiCamillo ??? ✨,2024-04-19
+479,The Sneetches and Other Stories,Dr. Seuss,1961,3.3,This book was SO BAD.  [spoiler]  'The Sneetches and Other Stories' by Dr. Seuss !!! http://buybook.com,2023-01-26
+480,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,1967,4.2,This book was BORING.  [spoiler]  'From the Mixed-Up Files of Mrs. Basil E. Frankweiler' by E.L. Konigsburg @@@ @friend,2024-10-11
+481,"The Story of Babar (Babar, #1)",Jean de Brunhoff,1931,4.1,"This book was MAGICAL.  [spoiler]  'The Story of Babar (Babar, #1)' by Jean de Brunhoff @@@ ✨",2024-03-25
+482,"The Indian in the Cupboard (The Indian in the Cupboard, #1)",Lynne Reid Banks,1980,3.9,"This book was AMAZING.  [spoiler]  'The Indian in the Cupboard (The Indian in the Cupboard, #1)' by Lynne Reid Banks ??? http://buybook.com",2024-12-08
+483,The Adventures of Tom Sawyer,Mark Twain,1876,3.9,This book was AMAZING.  [note]  'The Adventures of Tom Sawyer' by Mark Twain ??? 💯,2023-12-13
+484,"The Mouse and the Motorcycle (Ralph S. Mouse, #1)",Beverly Cleary,1965,4.0,"This book was MAGICAL.  [skip this part]  'The Mouse and the Motorcycle (Ralph S. Mouse, #1)' by Beverly Cleary @@@ #reading",2025-01-05
+485,"Olivia (Olivia, #1)",Ian Falconer,2000,4.2,"This book was AMAZING.  [skip this part]  'Olivia (Olivia, #1)' by Ian Falconer @@@ http://buybook.com",2024-01-15
+486,"Sideways Stories from Wayside School (Wayside School, #1)",Louis Sachar,1978,4.2,"This book was AMAZING.  [note]  'Sideways Stories from Wayside School (Wayside School, #1)' by Louis Sachar !!! http://buybook.com",2024-10-03
+487,"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,1932,4.4,"This book was SO BAD.  [Review]  'The Little House Collection (Little House, #1-9)' by Laura Ingalls Wilder ### ✨",2024-01-12
+488,The Neverending Story,Michael Ende,1979,5.0,This book was AMAZING.  [spoiler]  'The Neverending Story' by Michael Ende ... http://buybook.com,2023-06-11
+489,"Ramona the Pest (Ramona, #2)",Beverly Cleary,1968,4.1,"This book was LOVED IT.  [skip this part]  'Ramona the Pest (Ramona, #2)' by Beverly Cleary ... ✨",2025-03-05
+490,Hop On Pop,Dr. Seuss,1963,4.0,This book was MAGICAL.  [Review]  'Hop On Pop' by Dr. Seuss !!! ✨,2023-09-09
+491,The Little House,Virginia Lee Burton,1942,3.3,This book was LOVED IT.  [note]  'The Little House' by Virginia Lee Burton @@@ 💯,2024-04-18
+492,Harry the Dirty Dog,Gene Zion,1956,4.2,This book was BORING.  [Review]  'Harry the Dirty Dog' by Gene Zion !!! #reading,2025-04-02
+493,The Runaway Bunny,Margaret Wise Brown,1942,5.0,This book was AMAZING.  [spoiler]  'The Runaway Bunny' by Margaret Wise Brown ### 💯,2024-01-01
+494,Horton Hatches the Egg,Dr. Seuss,1940,4.2,This book was BORING.  [note]  'Horton Hatches the Egg' by Dr. Seuss !!! @friend,2023-08-02
+495,"Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)",Deborah Howe,1979,4.9,"This book was LOVED IT.  [Review]  'Bunnicula: A Rabbit-Tale of Mystery (Bunnicula, #1)' by Deborah Howe !!! 💯",2024-10-09
+496,Stone Soup,Jon J. Muth,2003,4.2,This book was AMAZING.  [skip this part]  'Stone Soup' by Jon J. Muth ??? http://buybook.com,2023-12-20
+497,A Light in the Attic,Shel Silverstein,1981,3.4,This book was LOVED IT.  [Review]  'A Light in the Attic' by Shel Silverstein ??? http://buybook.com,2023-04-12
+498,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,1999,4.6,"This book was MAGICAL.  [note]  'Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)' by J.K. Rowling ??? 💯",2025-05-08
+499,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,1998,4.4,"This book was MAGICAL.  [spoiler]  'Harry Potter and the Chamber of Secrets (Harry Potter, #2)' by J.K. Rowling ... @friend",2023-11-08
+500,The Three Billy Goats Gruff,Paul Galdone,1973,4.2,This book was SO BAD.  [note]  'The Three Billy Goats Gruff' by Paul Galdone !!! ✨,2023-10-23
